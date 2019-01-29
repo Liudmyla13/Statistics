@@ -1,2 +1,2 @@
 # Statistics
-Statistics on R
+Statistics in R
